@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fandtt.github.io</id>
+    <title>Fand</title>
+    <updated>2023-04-11T02:14:10.767Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fandtt.github.io"/>
+    <link rel="self" href="https://fandtt.github.io/atom.xml"/>
+    <subtitle>&lt;a href =&quot;http://47.101.195.21:5906&quot; style=&quot;font-size:16px&quot;&gt;青 山 东 复 东&lt;br&gt;
+龙 湫 可 雁 行&lt;br&gt;
+面 面 成 窗 户&lt;br&gt;
+板 道 霜 凿 凿&lt;br&gt;&lt;/a&gt;
+</subtitle>
+    <logo>https://fandtt.github.io/images/avatar.png</logo>
+    <icon>https://fandtt.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Fand</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown试用]]></title>
+        <id>https://fandtt.github.io/post/markdown-shi-yong/</id>
+        <link href="https://fandtt.github.io/post/markdown-shi-yong/">
+        </link>
+        <updated>2022-12-08T06:59:05.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<!-- more -->
+<hr>
+<p>-厕所-</p>
+<!-- more -->
+<hr>
+<p><strong>—厕所大苏打JF—</strong></p>
+<!-- more -->
+<p>chatgpt</p>
+<!-- more -->
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello，everybody]]></title>
+        <id>https://fandtt.github.io/post/helloeverybody/</id>
+        <link href="https://fandtt.github.io/post/helloeverybody/">
+        </link>
+        <updated>2022-12-08T01:08:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>🌞欢迎访问Fand'blog<br>
+📑今后将在这更新种种日常及教程，欢迎大家收藏</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🌞欢迎访问Fand'blog<br>
+📑今后将在这更新种种日常及教程，欢迎大家收藏</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
